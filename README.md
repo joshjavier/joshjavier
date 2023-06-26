@@ -1,26 +1,22 @@
 ### Hi there 👋
 
-I'm **Josh**, an aspiring frontend web developer from the Philippines 🇵🇭
+I'm **Josh**, a frontend web developer from the Philippines 🇵🇭
 
-I love making beautiful, responsive, and accessible web interfaces with clean and reusable code.
+I love making _beautiful_, _responsive_, and _accessible_ web interfaces with clean and reusable code.
 
-🌱 I’m currently learning frontend web development with [Scrimba](https://scrimba.com/learn/frontend), focusing on vanilla JS and React.
+🌱 **I’m currently looking for a full-time frontend developer role in a junior level position!**  
 
+📫 Get in touch via [email](mailto:joshjavier@gmail.com) or [LinkedIn](https://www.linkedin.com/in/joshjavier/)
 
-### Here are my favorite projects ⭐️
+### Skills
 
-- [Color Scheme Generator](https://github.com/joshjavier/color-scheme-generator)
-- [Password Generator](https://github.com/joshjavier/password-generator)
-- [Unit Converter](https://github.com/joshjavier/unit-converter)
-- [Quiz App (React)](https://github.com/joshjavier/quizzical-app)
-- Invoice Creator - coming soon...
-- Movie Watchlist - coming soon...
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,tailwind,figma,bash,git,linux,md,vite,webpack,vscode)](https://skillicons.dev)
 
+### I'm currently...
 
-### Say hello!
-
-I'm [Pommy#8317](https://discordapp.com/users/Pommy#8317) at Discord if you wanna come chat 🤙
-
+- learning TypeScript
+- doing challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/joshjavier)
+- doing [Full Stack Open 2023](https://fullstackopen.com/en/)
 
 <!--
 **joshjavier/joshjavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
