@@ -1,24 +1,25 @@
 ## Hi there 👋
 
-I'm **Josh**, a frontend web developer from the Philippines 🇵🇭
+I'm **Josh**, a full-stack web developer from the Philippines 🇵🇭
 
-I love making _beautiful_, _responsive_, and _accessible_ web interfaces with clean and reusable code.
+I specialize in building clean, responsive, and accessible web applications using modern technologies across the stack.
 
-### ⚡ Skills
+### 🧠 What I'm focused on
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,tailwind,figma,bash,git,linux,md,vite,webpack,vscode)](https://skillicons.dev)
+- **Looking for a full-time Full-Stack Developer role**
+- Building a **FHIR-based dental clinic app**
+- Deepening my knowledge of **TypeScript** and modern backend development
+- Sharpening skills via [Frontend Mentor](https://www.frontendmentor.io/profile/joshjavier)
 
-### 🔭 I'm currently...
+### ⚡ Tech Stack
 
-- **looking for a full-time frontend developer role in a junior level position!**
-- learning TypeScript
-- doing challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/joshjavier)
-- doing [Full Stack Open 2023](https://fullstackopen.com/en/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,py,tailwind,figma,git,linux,docker,vscode)](https://skillicons.dev)
 
-### 📫 Get in touch
+### 📫 Let's connect
 
-Feel free to [send me an email](mailto:&#x6a;&#x6f;&#x73;&#x68;&#x6a;&#x61;&#x76;&#x69;&#x65;&#x72;&#x31;&#x32;&commat;&#x67;&#x6d;&#x61;&#x69;&#x6c;&period;&#x63;&#x6f;&#x6d;) or [connect with me on LinkedIn](https://www.linkedin.com/in/joshjavier/).
-
+- 📧 [Email me](mailto:&#x6a;&#x6f;&#x73;&#x68;&#x6a;&#x61;&#x76;&#x69;&#x65;&#x72;&#x31;&#x32;&commat;&#x67;&#x6d;&#x61;&#x69;&#x6c;&period;&#x63;&#x6f;&#x6d;)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshjavier/)
+- 🌱 [Personal site](https://joshjavier.com)
 
 <!--
 **joshjavier/joshjavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
